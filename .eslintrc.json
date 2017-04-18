@@ -1,7 +1,3 @@
 {
-  "extends": ["standard", "standard-react"],
-  "rules" : {
-    "no-undef": "off",
-    "no-unused-vars": "off"
-  }
+  "extends": ["standard", "standard-react"]
 }
