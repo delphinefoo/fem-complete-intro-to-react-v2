@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"stackMethods"
+			],
+			[
+				"contai",
+				"containsFiveOrMoreDivs"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"funcion",
+				"functionOrKey"
+			],
+			[
+				"function",
+				"functionOrKey"
+			],
+			[
+				"func",
+				"functionOrKey"
+			],
+			[
+				"fun",
+				"functionOrKey"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"stin",
+				"stringifyJSON"
+			],
+			[
+				"stringify",
+				"stringifyJSON"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"alread",
+				"alreadyCalled"
+			],
+			[
+				"inge",
+				"ingredientCount"
+			],
+			[
+				"ingred",
+				"ingredientCount"
+			],
+			[
+				"mushro",
+				"mushroomCheck"
+			],
+			[
+				"products",
+				"productsICanEat"
+			],
+			[
+				"no",
+				"noNutsOrMush"
+			],
+			[
+				"produc",
+				"productsICanEat"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"criterionNa",
+				"criterionNameVar"
+			],
+			[
+				"criterion",
+				"criterionNameVar"
+			],
+			[
+				"create",
+				"createdBy"
+			],
+			[
+				"option",
+				"optionNameVar"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"factor",
+				"factorNameVar"
+			],
+			[
+				"direction",
+				"directionNames"
+			],
+			[
+				"element",
+				"elementFromChar"
+			],
+			[
+				"rand",
+				"randomElement"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"remove",
+				"removePlayerData"
+			],
+			[
+				"playerName",
+				"playerNameVar"
+			],
+			[
+				"player",
+				"playerNameVar"
+			],
+			[
+				"plyaer",
+				"playerNameVar"
+			],
+			[
+				"selected",
+				"selectedPlayer"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"case",
+				"case_eval"
+			],
+			[
+				"SECRET",
+				"SECRET_NUMBER"
+			],
+			[
+				"secret",
+				"secret_num"
+			],
+			[
+				"guess",
+				"guesses_left"
+			],
+			[
+				"gues",
+				"Guesses"
+			],
+			[
+				"SECRE",
+				"SECRET_NUMBER"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"start",
+				"startYear"
+			],
+			[
+				"star",
+				"startYear"
+			],
+			[
+				"b",
+				"BYE"
+			],
+			[
+				"iam",
+				"iAmDelphine"
+			],
+			[
+				"favorite",
+				"favorite_number"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packag",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 388.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/delphinef/Documents/Programming/fem-react/.babelrc",
+		"/Users/delphinef/Documents/Programming/fem-react/webpack.config.js",
+		"/Users/delphinef/Documents/Programming/fem-react/js/ShowCard.js",
+		"/Users/delphinef/Documents/Programming/fem-react/js/Search.spec.js",
+		"/Users/delphinef/Documents/Programming/fem-react/js/Search.js",
+		"/Users/delphinef/Documents/Programming/fem-react/js/Landing.js",
+		"/Users/delphinef/Documents/Programming/fem-react/js/ClientApp.js",
+		"/Users/delphinef/Documents/Programming/fem-react/package.json",
+		"/Users/delphinef/Documents/Programming/fem-react/public/data.json",
+		"/Users/delphinef/Documents/Programming/fem-react/index.html",
+		"/Users/delphinef/Documents/Programming/fem-react/js/landing.js",
+		"/Users/delphinef/Documents/Programming/fem-react/js/search.js",
+		"/Users/delphinef/Documents/Programming/fem-react/.eslintrc.json",
+		"/Users/delphinef/Documents/Programming/fem-react/public/style.css",
+		"/Users/delphinef/Documents/Programming/fem-react/js/MyTitle.js",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v2/index2.html",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v2/index.html",
+		"/Users/delphinef/Documents/Programming/fem-react/.gitignore",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v2/.gitignore",
+		"/Users/delphinef/Documents/Programming/.gitignore",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v2/server.js",
+		"/Users/delphinef/Desktop/index.html",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v2/package.json",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v2/yarn.lock",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/calendar.html",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/get_link.html",
+		"/Users/delphinef/indivisible salesforce site/SCI_VolunteerJobListingFS.cls",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/action_signup.html",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/member_signup.html",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/actions_list.html",
+		"/Users/delphinef/indivisible salesforce site/GW_Volunteers__VolunteersJobList.page",
+		"/Users/delphinef/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/profile_page.html",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/sci_site.html",
+		"/Users/delphinef/Documents/delphinefoo website/delphinefoo.github.io/blog.html",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v1/js/ClientApp.js",
+		"/Users/delphinef/Documents/Programming/complete-intro-to-react-v1/.eslintrc.json",
+		"/Users/delphinef/Documents/Programming/head-first-java/MyFirstApp.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/test.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/MyFirstApp.class",
+		"/Users/delphinef/iOS/NeighborFood/Podfile",
+		"/Users/delphinef/Desktop/MainRyan.storyboard",
+		"/Users/delphinef/iOS/NeighborFood/.git/COMMIT_EDITMSG",
+		"/Users/delphinef/iOS/NeighborFood/README.md",
+		"/Users/delphinef/Documents/Programming/head-first-java/TestArrays.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/GameLauncher.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/DrumKitTestDrive.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/Player.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/GuessGame.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/MovieTestDrive.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/Dog.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/Movie.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/Exercise1b.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/PhraseOMatic.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/Shuffle1.java",
+		"/Users/delphinef/Documents/Programming/head-first-java/NinetyNineBottles.java",
+		"/Users/delphinef/Documents/Programming/d3-projects/interactive-data-vis-for-the-web/index.js",
+		"/Users/delphinef/Documents/Programming/frontend-masters/advanced-js-kyle-simpson/day1-completed/exercises/ex2/ex2.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-two/src/set.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-two/src/graph.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-two/src/tree.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-two/spec/treeSpec.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-two/src/linkedList.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/functional-shared/queue.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/prototypal/stack.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/prototypal/queue.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/pseudoclassical/stack.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/pseudoclassical/queue.js",
+		"/Users/delphinef/.bashrc",
+		"/Users/delphinef/.bash_profile",
+		"/Users/delphinef/Documents/Programming/HR toy problems/robot paths/robotPaths.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/queue-stack/queueStack.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/mergeSort/mergeSort.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/rangeClass/rangeClass.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/rangeClass/rangeClassSpec.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/queue-stack/queueStackSpec.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/nthFibonacci/nthFibonacci.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/powerset/powerset.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/nthFibonacci/nthFibonacciSpec.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/non-repeated characters/nonRepeatedCharacter.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/mergeSort/mergeSortSpec.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/longestRun/longestRun.js",
+		"/Users/delphinef/Documents/H2O/style.css",
+		"/Users/delphinef/Documents/H2O/src/edit/edit.js",
+		"/Users/delphinef/Documents/H2O/tests/spec.js",
+		"/Users/delphinef/Documents/Programming/KhanAcademy/node_modules/esprima/esprima.js",
+		"/Users/delphinef/Documents/Programming/KhanAcademy/challenge-interface.html",
+		"/Users/delphinef/Documents/Programming/KhanAcademy/package.json",
+		"/Users/delphinef/Documents/Programming/KhanAcademy/node_modules/esprima/package.json",
+		"/Users/delphinef/Documents/Programming/KhanAcademy/node_modules/normalize.css/package.json",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/spec/specs.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/functional/queue.js",
+		"/Users/delphinef/HackReactor/data-structures-redux/2015-11-data-structures/sprint-one/src/functional/stack.js",
+		"/Users/delphinef/Documents/Programming/flack/src/app/app.html",
+		"/Users/delphinef/Documents/Programming/flack/src/app/app.js",
+		"/Users/delphinef/Documents/Programming/codility/binaryGap.js",
+		"/Users/delphinef/HackReactor/CtCI/ch3/ch3q5_tests.js",
+		"/Users/delphinef/HackReactor/CtCI/ch3/3-3.js",
+		"/Users/delphinef/HackReactor/CtCI/ch3/specRunner.html",
+		"/Users/delphinef/HackReactor/CtCI/ch3/ch3_your_solution.js",
+		"/Users/delphinef/HackReactor/CtCI/ch10/ctci_your_solution.js",
+		"/Users/delphinef/Desktop/closeio.py",
+		"/Users/delphinef/Desktop/closeio.js",
+		"/Users/delphinef/Desktop/closeio.html",
+		"/Users/delphinef/Desktop/parenthesesPerms.js",
+		"/Users/delphinef/Documents/Programming/HR toy problems/rockPaperPermutation/rockPaperPermutation.js",
+		"/Users/delphinef/HackReactor/2015-11-taxonomy/README.md",
+		"/Users/delphinef/HackReactor/2015-11-subclass-dance-party/README.md",
+		"/Users/delphinef/HackReactor/2015-11-spine/README.md",
+		"/Users/delphinef/HackReactor/2015-11-solo/.bowerrc",
+		"/Users/delphinef/HackReactor/2015-11-shortly-angular/README.md",
+		"/Users/delphinef/HackReactor/2015-11-shortly-deploy/README.md",
+		"/Users/delphinef/HackReactor/2015-11-n-queens/README.md",
+		"/Users/delphinef/HackReactor/2015-11-mytunes/.gitignore",
+		"/Users/delphinef/HackReactor/2015-11-chatterbox-client/README.md",
+		"/Users/delphinef/HackReactor/2015-11-chatterbox-server/README.md",
+		"/Users/delphinef/HackReactor/eventify/src/components/create-event/index.js",
+		"/Users/delphinef/HackReactor/eventify/server/server.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/event-page/details.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/landing-page/Banner.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/dashboard/CreatedEventsList.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/landing-page/BannerImage.js",
+		"/Users/delphinef/HackReactor/eventify/index.html",
+		"/Users/delphinef/HackReactor/eventify/src/index.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/event-page/index.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/create-event/CreateEventForm.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/auth/SignupModal.js",
+		"/Users/delphinef/HackReactor/eventify/src/components/auth/LogoutBtn.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"test\"",
+			"jest",
+			")\n",
+			"babel",
+			"startdate",
+			"no-undef",
+			"nav",
+			">\n",
+			"newTodo",
+			"dlSearchMember",
+			"pluralize",
+			"congress person",
+			"checkBody",
+			"throw",
+			"console.log",
+			"\"",
+			"Y",
+			"};\n",
+			"arr[i+1]",
+			"arr[i-1]",
+			"arr[i + 1]",
+			"arr[i]",
+			"remote",
+			"arr[i - 1]",
+			"arr[i+1]",
+			"arr[i + 1]",
+			"bigger",
+			"arr[i]",
+			"arr",
+			"Searching",
+			"arr[i]",
+			"arr",
+			"(",
+			".post",
+			"EditEventBtn",
+			"onchange",
+			"redFontStyles",
+			"redfontstyles",
+			"redFontStyles",
+			"redfontstyles",
+			"neweventposted",
+			"createEvent",
+			"Link",
+			"bannervideo",
+			"please sign in above to join ",
+			"fetchJoinedEvents",
+			"error at Fetchevent",
+			"middleware",
+			"middlewre",
+			"hashhistory",
+			"fetchevent",
+			"fetchOneEvent",
+			"your events, crowdfunded",
+			"'search places'",
+			"updateUserLocation",
+			"createdEvent",
+			"index.html",
+			"currentImg",
+			"tapeventplugin",
+			"process.env",
+			"image_url",
+			"google.com",
+			"user_id",
+			"./components/posts_index",
+			"helper",
+			"transition",
+			"renderMain",
+			"var middleware",
+			"middleware",
+			"apiRoutes",
+			"apiRouter",
+			"ext=\"Email\"\n        hintStyle={{color: '#a0a6bf'}}\n        fullWidth={true} />\n      <TextField\n        hintText=\"Password\"\n        hintStyle={{color: '#a0a6bf'}}\n        fullWidth={true} />\n)",
+			"secondary",
+			"btn",
+			"primary",
+			"btn",
+			"this.props.",
+			": function",
+			"= require (",
+			"./AddNote",
+			"\"./AddNote\"",
+			"= require",
+			"var",
+			"setState",
+			"Home",
+			"handleAdd",
+			"this.props.notes",
+			"components/Profile",
+			"contactHistory",
+			".conversations",
+			"ng-class",
+			"$scope.message",
+			"chatsView",
+			"$scope.message",
+			"$scope.recipient",
+			"chatsView",
+			"showChat",
+			"recipient",
+			"$scope.recipient",
+			"$rootScope.loggedInUser",
+			"$rootScope.hasAuth",
+			"$rootScope",
+			".transaction",
+			"img",
+			"signout",
+			"climber.profileImg",
+			"Climber",
+			"ClimberProvider",
+			"unreadMessages",
+			"unread",
+			"$rootScope.loggedInUser",
+			"on-belay-next",
+			"dist",
+			"contactme",
+			"contactMe",
+			"firebase",
+			"firebaseio",
+			"5000",
+			"removeItem",
+			"$rootScope.loggedInUser",
+			"loggedInUser",
+			"loggedInID",
+			"loggedInID\nloggedInID",
+			"loggedInID",
+			"86400",
+			"com.nova",
+			"$rootScope.loggedInID",
+			"loggedInID"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 25.0
+	},
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"createjob",
+				"db/migrate/20160321033602_create_jobs.rb"
+			],
+			[
+				"splashpage",
+				"splashpage.css"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
