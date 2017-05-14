@@ -334,6 +334,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/delphinef/Documents/Programming/fem-react"
+	],
 	"file_history":
 	[
 		"/Users/delphinef/Documents/Programming/fem-react/.babelrc",
@@ -676,7 +680,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "index.sublime-project",
+	"project": "fem-react.sublime-project",
 	"replace":
 	{
 		"height": 42.0
